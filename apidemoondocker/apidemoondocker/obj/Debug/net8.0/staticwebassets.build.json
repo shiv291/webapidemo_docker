@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pVFTRuRhyepOrAeKxTHBetn3vpR1FTGtW4p2JT15uqY=",
+  "Source": "apidemoondocker",
+  "BasePath": "_content/apidemoondocker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
