@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zzzdYrUKgs2yDD1LTj9sVR/okodXU3UkpUan5Fs5WW11HstR/ck2OcxmHwX33I/vJlK/FeInV7cNj3rLvFKYVQ==",
+  "dgSpecHash": "0kLjQW+ZN1DkVR7XccIzdVWZUcOIBru3FYDr4AtRko5oFZ31vMQnGlNhIB7OnLKuUD5gcDePMY5q5BwKVKkHBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\webapidemoforlinux_docker\\apidemoondocker\\apidemoondocker\\apidemoondocker.csproj",
+  "projectFilePath": "C:\\Users\\Acer\\source\\repos\\webapidemo_docker\\apidemoondocker\\apidemoondocker\\apidemoondocker.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Acer\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
